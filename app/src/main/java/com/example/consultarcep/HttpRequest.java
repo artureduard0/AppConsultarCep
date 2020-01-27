@@ -36,6 +36,7 @@ public class HttpRequest extends AsyncTask<Void, Void, CEP> {
                 while (scanner.hasNext()) {
                     String s = scanner.next();
                     resposta.append(s);
+                    resposta.append(" ");
                 }
             } catch (MalformedURLException e) {
                 e.printStackTrace();
