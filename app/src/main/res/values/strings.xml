@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Consultar CEP</string>
+    <string name="consultar">Consultar</string>
+    <string name="insira_o_cep">Insira o CEP</string>
+</resources>
